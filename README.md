@@ -8,4 +8,4 @@ Relatório II — Criação de um novo dataframe contendo somente imóveis resid
 
 Relatório III — Solicitação por email para retirada de frequência de imóveis.
 
-Relatório IV — Tratamento de dados faltantes (missings) e geração de um novo banco de dados.
+Relatório IV — Tratamento de dados faltantes (missings) e geração de um novo dataframe.
