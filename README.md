@@ -10,4 +10,4 @@ Relatório III — Solicitação por email para retirada de frequência de imóv
 
 Relatório IV — Tratamento de dados faltantes (missings) e geração de um novo dataframe.
 
-Relatório V — Criando novas variáveis.
+Relatório V — Solicitação para criação de novas variáveis.
